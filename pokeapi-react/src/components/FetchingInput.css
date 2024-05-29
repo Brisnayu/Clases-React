@@ -1,0 +1,10 @@
+.card-pokemon {
+    /* background-color: gray; */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.card-pokemon img {
+    /* border: 1px solid green; */
+    width: 250px;
+    height: 250px;
+}
